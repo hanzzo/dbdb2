@@ -10,7 +10,7 @@ namespace dbdb.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "one";
+            ViewBag.Title = "one --- seven";
 
             return View();
         }
